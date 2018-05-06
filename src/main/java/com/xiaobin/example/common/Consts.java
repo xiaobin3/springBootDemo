@@ -7,4 +7,9 @@ package com.xiaobin.example.common;
  * @Modified by:
  */
 public class Consts {
+
+    //返回码，成功
+    public static final int RESULT_INT_SUESS = 0;
+    //返回码，失败
+    public static final int RESULT_INT_FAIL = 1;
 }
